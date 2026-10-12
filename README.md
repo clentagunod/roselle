@@ -1,235 +1,79 @@
-# Accompany source directory for research "Quantum-Enhanced Discovery of Anticancer Phytochemicals from Hibiscus sabdariffa: An In Silico Machine Learning Approach"
+# Quantum-Enhanced Discovery of Anticancer Phytochemicals from *Hibiscus sabdariffa*
+## An In Silico Machine Learning Approach
 
-A Python-based molecular discovery and screening workflow for identifying promising Roselle analog compounds for therapeutic activity and safety assessment. The repository combines dataset acquisition, chemical feature engineering, model training, virtual filtering, molecular docking, and statistical analysis to prioritize compounds across multiple biological targets.
+This repository accompanies the research study *“Quantum-Enhanced Discovery of Anticancer Phytochemicals from Hibiscus sabdariffa: An In Silico Machine Learning Approach.”* It contains the datasets, model experiments, and analysis outputs supporting the investigation. The focus of the study is the computational research process and its findings—not a standalone software package.
 
-This project is organized around a research pipeline that:
+## Research overview
 
-- downloads bioactivity and ADMET datasets from ChEMBL and TDC,
-- validates compound records and normalizes target labels,
-- computes RDKit molecular descriptors and Morgan fingerprints,
-- builds predictive models for EGFR, HER2, VEGFR2, and ADMET endpoints,
-- filters candidate compounds through a multi-stage virtual screening process,
-- docks the shortlisted compounds against target proteins,
-- summarizes data quality and model performance.
+The study investigates whether machine-learning methods, including hybrid quantum-classical models, can help prioritize *Hibiscus sabdariffa* (roselle)-associated phytochemicals for follow-up as potential anticancer candidates. Predicted activity and developability-related properties are considered together, with molecular docking used as a secondary, structure-based prioritization step.
 
-## Project goals
+The work is hypothesis-generating. Model predictions and docking scores do not demonstrate anticancer efficacy, safety, or clinical suitability; experimental validation is required.
 
-The source code supports a drug-discovery style workflow for Roselle-derived compounds, with emphasis on:
+## Research questions and scope
 
-- target activity prediction for EGFR, HER2, and VEGFR2,
-- ADMET risk prediction such as CYP3A4 inhibition, hERG liability, mutagenicity, and solubility,
-- ranking compounds by biological relevance and safety,
-- prioritizing a small subset for structure-based docking and further study.
+The computational investigation centers on:
 
-## Repository structure
+- Predicting compound activity against three cancer-related protein targets: EGFR, HER2, and VEGFR2.
+- Comparing classical Random Forest and graph neural network approaches with hybrid quantum machine-learning experiments.
+- Assessing predicted ADMET-related endpoints: CYP3A4 activity, aqueous solubility, hERG liability, and mutagenicity.
+- Combining predicted activity, safety-related properties, and drug-likeness to prioritize compounds for docking.
+- Exploring the association between machine-learning screening scores and docking affinity.
+
+## Computational approach
+
+1. **Assemble reference data.** Target bioactivity records are collected from ChEMBL; ADMET training data are drawn from ChEMBL and the Therapeutics Data Commons (TDC). Compound records are validated and represented by their SMILES structures.
+2. **Represent molecules.** RDKit descriptors and Morgan fingerprints provide tabular features. Molecular graphs are also used for graph-neural-network experiments.
+3. **Train and evaluate models.** The notebooks contain Random Forest, graph neural network, and hybrid quantum-model experiments for bioactivity and ADMET endpoints.
+4. **Prioritize the roselle compound set.** Predicted activity, ADMET-related values, and QED drug-likeness are used in a multi-objective screen. The current screening utility applies a mutagenicity filter and Pareto ranking, using a weighted score to order or adjust the candidate set.
+5. **Dock shortlisted molecules.** AutoDock Vina is used to estimate binding affinity against EGFR (PDB 1M17), HER2 (PDB 3PP0), and VEGFR2 (PDB 4ASD).
+6. **Analyze results.** Descriptive statistics and correlation analysis summarize the compound collection and the relationship between screening scores and docking affinities.
+
+## Findings represented in this repository
+
+The included result files are a snapshot of the current analysis:
+
+- `data/final_dataset/final_roselle_dataset.csv` contains 1,284 compound records used in the screening dataset.
+- `data/final_dataset/virtual_screening_survivors.csv` contains 77 virtual-screening candidates.
+- `data/final_dataset/final_docking_survivors.csv` contains 39 compounds with final docking results.
+- `data/rq4_correlation_result.csv` reports an exploratory association analysis on 38 paired observations. It records a negative Spearman correlation between the composite screening score and mean docking affinity (rho = -0.3816, p = 0.0181; Kendall tau = -0.2831, p = 0.0124). This is an association within a small, preselected set—not independent validation of predictive performance.
+
+These counts and statistics describe the checked-in outputs; rerunning or refreshing the workflow may produce different results.
+
+## What is included
 
 ```text
-final_roselle/
-├── data/
-│   ├── final_dataset/                  # final screening and ranking outputs
-│   ├── plots/                          # generated plots for descriptive analysis
-│   ├── roselle_dataset/                # Roselle molecule datasets and features
-│   ├── training_dataset/               # training-ready feature tables and metadata
-│   ├── ames.tab                        # ADMET dataset raw data
-│   ├── herg.tab                        # hERG raw data
-│   ├── solubility_aqsoldb.tab          # solubility raw data
-│   ├── columns.json                    # dataset column metadata
-│   ├── rdkit_feature_cache.json        # cached RDKit descriptor fingerprints
-│   └── rq4_correlation_result.csv       # final correlation output
-├── docking_workdir/
-│   ├── egfr/                           # EGFR protein and docking box files
-│   ├── her2/                           # HER2 protein and docking box files
-│   ├── vegfr2/                        # VEGFR2 protein and docking box files
-│   └── ligands/                       # candidate ligands for docking
-├── models/
-│   ├── best_models/                    # saved/selected model artifacts
-│   ├── graph_neural_network/           # GNN-based model notebooks
-│   ├── hybrid_quantum_models/          # hybrid quantum ML notebooks
-│   ├── random_forest/                  # random forest models and notebooks
-│   └── sample.ipynb                    # sample notebook
-├── utils/
-│   ├── admet.py                       # ADMET dataset construction pipeline
-│   ├── bioactivity.py                 # bioactivity dataset construction pipeline
-│   ├── bioactivity_dataset_validator.py
-│   ├── admet_dataset_validator.py
-│   ├── column_helper.py
-│   ├── correlation.py                 # correlation and normality testing
-│   ├── data_manager.py                # generic dataset loader abstraction
-│   ├── descriptives.py               # descriptive statistics for Roselle dataset
-│   ├── docking.py                    # receptor preparation + AutoDock Vina workflow
-│   ├── fetch_admet_dataset.py        # TDC dataset fetcher
-│   ├── fetch_bioactivity_dataset.py  # ChEMBL activity fetcher
-│   ├── graph_data_converter.py
-│   ├── plotter.py                    # metric plots and visualizations
-│   ├── rdkit_computation.py          # descriptor + fingerprint generation
-│   ├── virtual_screening.py          # Pareto ranking and survivor selection
-│   └── __init__.py
-├── MCS-I.1-EDITED.docx
-├── MCS-I.1-Revised.docx
-├── Programmer_s_Report_revised.docx
-├── Rona-Mar-Molecular-Docking.docx
-├── Phase 3 Process Flow.docx
-├── RESULTS-NEW-BATAAN-NATIONAL-HIGH-SCHOOL.docx-1.pdf
-└── README.md
+data/
+  final_dataset/         Curated compound table and screening/docking outputs
+  roselle_dataset/       Roselle compound features and molecular-graph data
+  training_dataset/      Target-specific bioactivity and ADMET training data
+  plots/                 Descriptive and endpoint plots
+models/
+  random_forest/         Classical baseline experiments
+  graph_neural_network/  Molecular graph model experiments
+  hybrid_quantum_models/ Hybrid quantum-model experiments
+  best_models/           Selected model notebooks and inference metadata
+docking_workdir/         Target docking-box files and working data
+utils/                   Data preparation, featurization, screening, and analysis utilities
 ```
 
-## Core source modules
+The notebooks and output tables are the primary research artifacts. The utilities support dataset preparation, molecular featurization, candidate screening, docking, and statistical analysis.
 
-### Data collection and validation
+## Interpretation and limitations
 
-- `utils/fetch_bioactivity_dataset.py`
-  - Pulls ChEMBL compound activity data for target proteins.
-  - Filters by assay confidence, standard assay type, and daily rate limits.
-  - Saves raw CSV outputs and logs.
+- This is an in-silico prioritization study; predicted activity and docking affinity are not experimental measurements of anticancer activity.
+- Docking scores are approximate and depend on receptor structures, preparation choices, and scoring assumptions.
+- Screening and correlation results are based on a limited, selected candidate set; they should not be interpreted as proof of general model performance.
+- Public training datasets can differ in assay conditions, compound coverage, and label quality. Results depend on the data and model configurations used in the included notebooks.
+- Any candidate identified here requires experimental testing, including efficacy, selectivity, and safety assessment, before biological or therapeutic claims can be made.
 
-- `utils/fetch_admet_dataset.py`
-  - Loads TDC ADMET datasets such as Solubility, hERG, and mutagenicity.
-  - Writes compact property-specific datasets for downstream training.
+## Using this companion repository
 
-- `utils/bioactivity_dataset_validator.py` and `utils/admet_dataset_validator.py`
-  - Clean and validate records before training.
-  - Ensure SMILES, labels, and provenance columns are compatible.
+Treat the checked-in datasets and notebooks as research materials for examining the study workflow and its reported outputs. Reproducing the computational experiments may require the scientific Python and cheminformatics libraries, quantum machine-learning frameworks, and docking tools used by the individual notebooks and utilities. Exact reproduction also depends on matching their data sources, software versions, random seeds, and model settings.
 
-### Chemical featurization
+## Citation
 
-- `utils/rdkit_computation.py`
-  - Uses RDKit to compute physicochemical descriptors and Morgan fingerprints.
-  - Adds a cache so repeated calculations are faster and more reproducible.
+If you use these research materials, cite the associated study:
 
-- `utils/column_helper.py`
-  - Handles metadata/feature column alignment and processing for datasets.
+> *Quantum-Enhanced Discovery of Anticancer Phytochemicals from Hibiscus sabdariffa: An In Silico Machine Learning Approach.*
 
-### Dataset assembly and access
-
-- `utils/data_manager.py`
-  - A lightweight loader that reads either tabular or graph datasets based on a dataset path and type.
-
-- `utils/admet.py`
-  - Builds ADMET training datasets by combining fetched data and RDKit features.
-
-- `utils/bioactivity.py`
-  - Builds bioactivity datasets for selected targets such as EGFR, HER2, and VEGFR2.
-
-### Analysis and model assessment
-
-- `utils/descriptives.py`
-  - Produces descriptive statistics for physicochemical and bioactivity features.
-  - Summarizes continuous and ADMET-probability distributions.
-
-- `utils/correlation.py`
-  - Checks the relationship between a composite model score and docking affinity.
-  - Uses Shapiro-Wilk normality tests, Pearson/Spearman selection, and Kendall tau.
-
-- `utils/plotter.py`
-  - Generates evaluation visualizations such as ROC curves, PR curves, confusion matrices, and feature importance charts.
-
-### Virtual screening and docking
-
-- `utils/virtual_screening.py`
-  - Loads the final Roselle dataset,
-  - applies ADMET hard filters,
-  - computes bioactivity and safety scores,
-  - uses Pareto-optimal ranking to select a manageable set of candidates.
-
-- `utils/docking.py`
-  - Prepares target receptors from PDB structures,
-  - defines docking boxes around the crystallographic ligand,
-  - converts ligands to 3D structures and PDBQT,
-  - uses AutoDock Vina to score candidate compounds,
-  - saves ranked docking survivors.
-
-## Data workflow
-
-The code follows a typical machine-learning-for-drug-discovery pipeline:
-
-1. Data acquisition
-   - ChEMBL bioactivity data is collected per target.
-   - TDC ADMET datasets are gathered for toxicity and pharmacokinetic endpoints.
-
-2. Dataset validation and cleaning
-   - Rows are filtered for valid SMILES and reliable assay records.
-   - Labels are standardised for classification or regression tasks.
-
-3. Feature generation
-   - RDKit descriptors and Morgan fingerprints are created.
-   - Feature caches reduce repeated computations across targets.
-
-4. Model training
-   - The repository contains notebooks for random forest, graph neural network, and hybrid quantum ML workflows.
-   - Best-performing models are stored in `models/best_models/`.
-
-5. Virtual screening
-   - A candidate library is filtered by safety and then ranked by multi-objective optimisation.
-
-6. Docking
-   - Surviving compounds are evaluated against EGFR, HER2, and VEGFR2 receptors.
-   - Docking scores refine the final shortlist.
-
-7. Reporting
-   - Descriptive statistics, plots, and correlation checks support interpretation of the screening results.
-
-## Main execution scripts
-
-These are the most important entry points found in this repository:
-
-```bash
-# Build bioactivity datasets
-python utils/bioactivity.py
-
-# Build ADMET datasets
-python utils/admet.py
-
-# Run virtual screening and candidate pruning
-python utils/virtual_screening.py
-
-# Run receptor preparation and docking
-python utils/docking.py
-
-# Correlation analysis between screening score and docking affinity
-python utils/correlation.py
-
-# Descriptive statistics for Roselle dataset
-python utils/descriptives.py
-```
-
-## Notes on data outputs
-
-The project writes many intermediate and final artifacts into `data/`:
-
-- `data/training_dataset/...` contains per-target feature tables and raw fetched data.
-- `data/final_dataset/...` contains the final candidate library, screened survivors, and docking outputs.
-- `data/plots/...` contains generated figures and summary plots.
-
-These files are the backbone of the research workflow and should be treated as the results layer of the source code.
-
-## Dependencies
-
-The code relies on a standard scientific Python stack plus chemistry tooling, including:
-
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- matplotlib / seaborn
-- RDKit
-- PyTorch
-- SciPy
-- requests
-- AutoDock Vina
-- Meeko
-- TDC (for dataset fetching)
-
-This project is research-oriented rather than packaged as a formal Python package, so most scripts are meant to be executed from the project root.
-
-## Recommended workflow for a new user
-
-1. Create a Python environment with the dependencies above.
-2. Run the data-fetching and feature-building scripts.
-3. Open the notebooks under `models/` to train or evaluate models.
-4. Run `utils/virtual_screening.py` to generate candidates.
-5. Run `utils/docking.py` to evaluate the shortlisted compounds.
-6. Use `utils/descriptives.py` and `utils/correlation.py` for reporting and validation.
-
-## Summary
-
-This repository is a complete molecular discovery pipeline for Roselle analog screening. It connects chemistry, machine learning, and structure-based docking into one project, with code structured for dataset generation, model experimentation, and candidate prioritization. The main intellectual work is not just model fitting, but the end-to-end workflow that turns raw molecular data into a ranked shortlist of promising compounds.
+Add the authors, publication venue, year, and persistent identifier here when those details are available.
