@@ -1,0 +1,2 @@
+n,shapiro_p_ml_composite_score,shapiro_p_mean_docking_affinity,both_normal,method,coefficient,p_value,significant_at_0.05,kendall_tau,kendall_p_value
+38,0.0665,0.001,False,Spearman rho,-0.3816,0.0181,True,-0.2831,0.0124

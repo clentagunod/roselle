@@ -1,0 +1,2358 @@
+{
+  "CHEMBL665756": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL666254": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL664807": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL666013": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666007": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666008": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL664804": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL664805": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL663568": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666748": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663953": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666749": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666005": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666009": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL664803": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666014": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666004": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL659099": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL760335": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL760334": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL666017": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663578": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663571": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663952": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666006": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666018": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666016": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663951": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666020": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666015": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL666065": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL663984": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL663985": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL714754": {
+    "confidence_score": 8,
+    "assay_type": "B"
+  },
+  "CHEMBL664809": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL663577": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663574": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663575": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663576": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663572": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL663573": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL883800": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL618439": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL829416": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL830925": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL828408": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL827921": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL827922": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL827852": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL827153": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL833936": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL881385": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL880434": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL880443": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL880273": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL881951": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL880239": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL871890": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL856241": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL859751": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL859675": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL860946": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL859789": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL869599": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL866268": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL861848": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL870680": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL853201": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL869683": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL870292": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL870973": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL864720": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL864244": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL871024": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL854900": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL908803": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL909912": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL910524": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL912513": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL856835": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL920388": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL913814": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL919361": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL916112": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL904762": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL905988": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL905864": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL907557": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL886493": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL887697": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL889130": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL890381": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL896272": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL896225": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL893816": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL893817": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL893902": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL890117": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL898579": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL899348": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL899757": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL900786": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL899973": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL900223": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL903105": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL902308": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL902312": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL902284": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL887138": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL923327": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL924023": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL925475": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL942808": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL942995": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL928536": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL944940": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL928307": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL928569": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL928679": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL928990": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL946016": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL949198": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL950139": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL950140": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL933240": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL946980": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL930528": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL935016": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL935017": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL935239": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL935240": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL933077": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL933194": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL949246": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL950312": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL932840": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL921270": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL930259": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL937498": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL926899": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL929419": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL930375": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL921647": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1002238": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1004814": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL996056": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL997024": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL995203": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1000505": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1000506": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL999389": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1008800": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1011725": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1011724": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL963890": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1029105": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1029106": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1021503": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1018631": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1036828": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1036829": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1000805": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL953406": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL995611": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL971604": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL971609": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL980917": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1035787": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1008932": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1008009": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1008010": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL996821": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL996822": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL959569": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL949435": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL950431": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1011897": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1022367": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL999263": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL983063": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1022737": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL965362": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL951567": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL991619": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL995002": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL986246": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1032458": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL969594": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL971450": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL984120": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL970953": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL972070": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL983784": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL983778": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL982033": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL982034": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL982032": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL990018": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL979041": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL979961": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL958150": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1012088": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1012090": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1013732": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1013733": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1014597": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL989848": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1022134": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1014227": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1002499": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL964397": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL964396": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1011418": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1026060": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1063869": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1051708": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1053055": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1052375": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1063294": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1063243": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1053350": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1054929": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1062502": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1062503": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1062504": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1061742": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1060933": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1036858": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1054521": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1054522": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1037797": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1039587": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1040535": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1050892": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1038938": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1049593": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1045324": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1045323": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1044348": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1037479": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1048901": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1038132": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1038133": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1047872": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1039964": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1039963": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1071990": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1050352": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1070650": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1072560": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1071331": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1049516": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1073142": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1074126": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1066534": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1068899": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1074315": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1074316": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1074317": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1102238": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1100119": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1107678": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1100432": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1100431": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1100434": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1109286": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1109287": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1110300": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1100026": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1100149": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1108441": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1106980": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1103463": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1103666": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1112561": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1113025": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1110016": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1120983": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1115501": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1108268": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1110979": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1113740": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1111995": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1120625": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1174524": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1174621": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1176753": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1177588": {
+    "confidence_score": 8,
+    "assay_type": "B"
+  },
+  "CHEMBL1176383": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1211533": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1211676": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1211677": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1212576": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1212577": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1212579": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1211747": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1211770": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1211869": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1211868": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1212551": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1216220": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1219579": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1219274": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1228481": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1225831": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1226091": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1228178": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1228445": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1228437": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1248765": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1248766": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1248761": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1247358": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1251097": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1259703": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1260334": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1261455": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1274949": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1274948": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1274947": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1275129": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1275130": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1275127": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1275145": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1274253": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1274534": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1273487": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1273985": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1273055": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1273059": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1285229": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1286979": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1293108": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1292271": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1292297": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1291745": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1292547": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1635471": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1635470": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1635605": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1635606": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1639370": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1646952": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1646221": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1646089": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1648778": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1647136": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1645655": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1647953": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1656750": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1656749": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1656985": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1664607": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1671551": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1670542": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1670982": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1671060": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1670711": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1669909": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1679409": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1679763": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1679090": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1678715": {
+    "confidence_score": 9,
+    "assay_type": "B"
+  },
+  "CHEMBL1687152": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1686218": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1685315": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1685316": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1764825": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1763135": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1764270": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1764271": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1769739": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1769808": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1767686": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1769769": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1777313": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1780838": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1780917": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1780463": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1780282": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1787042": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1799313": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1799314": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1799315": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1804703": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1803983": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1805042": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1810928": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1811280": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1810946": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1815954": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1816745": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1820810": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1821060": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1825557": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1825558": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1825660": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1825987": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1827034": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1833288": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1831799": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1832815": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1837833": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1839023": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1837149": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1839345": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1839229": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1837334": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1837642": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1837641": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1839698": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1909138": {
+    "confidence_score": 8,
+    "assay_type": "B"
+  },
+  "CHEMBL1913192": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1912404": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1912812": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1912811": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1913543": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1921622": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1918377": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1926381": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1926384": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1924648": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1924166": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1924168": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1925701": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1932321": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1930587": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1938193": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1948330": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1948789": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1953081": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1953693": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1954400": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1954555": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1955100": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL1953643": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1953642": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL1958509": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2014182": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2020552": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2020724": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2020696": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2020825": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2020948": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2024782": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2024783": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2027647": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2024825": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2024824": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2026877": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2027164": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2038483": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2037700": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2040128": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2043504": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2044477": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2046010": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2051628": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2051629": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2050706": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2049566": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2051079": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2051080": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2060578": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2061983": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2062024": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2062034": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2067176": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2067912": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2072909": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2072521": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2073641": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2073339": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2090048": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2153971": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2156798": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2163108": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2163109": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2161927": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2162043": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2160397": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2160809": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2169306": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2167345": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2169149": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2167599": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2167123": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2176191": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2173695": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2173429": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2182317": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2187053": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2186160": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2183472": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2183859": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2186606": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2186895": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2188029": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2183276": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2183277": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2186748": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2186749": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2183775": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2186098": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2185189": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2185190": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2187896": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2215825": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2214982": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2214477": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2209438": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2211386": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2320438": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2318182": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2327572": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2330314": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2344952": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2341374": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2344726": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2344727": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2344472": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2343700": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2341168": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2352945": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2350278": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2379475": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2378546": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2384333": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2383922": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2384505": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2389924": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2390362": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2389354": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2399055": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2400604": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2403921": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2405841": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2406496": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2405380": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2410297": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2412945": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2412946": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2410121": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2410505": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2410909": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2416908": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2417292": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2421133": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2423256": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2421739": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2421797": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2424022": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2423309": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2429186": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2429413": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2427043": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2432678": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2434092": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2437989": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2439898": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2437635": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2439317": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2443949": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2443951": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2444436": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2446526": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2444929": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL2448772": {
+    "confidence_score": 8,
+    "assay_type": "A"
+  },
+  "CHEMBL2448771": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3089111": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3088768": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3090538": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3090618": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3090619": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3096912": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3096369": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3096584": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3100521": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3107752": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3107831": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3108397": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3111002": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3117637": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3119562": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3119564": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3119735": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3118928": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3117316": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  },
+  "CHEMBL3117563": {
+    "confidence_score": 9,
+    "assay_type": "A"
+  }
+}

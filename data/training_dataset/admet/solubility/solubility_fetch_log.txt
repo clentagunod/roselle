@@ -1,0 +1,8 @@
+[2026-08-24 21:19:22] [solubility] ======================================================================
+[2026-08-24 21:19:22] [solubility] Starting run. Dataset=Solubility_AqSolDB (ADME), task_type=regression, daily_limit=2426
+[2026-08-24 21:19:24] [solubility] Loading TDC dataset 'Solubility_AqSolDB' (ADME)...
+[2026-08-24 21:19:24] [solubility] TDC returned 9982 total compounds for 'Solubility_AqSolDB'.
+[2026-08-24 21:19:24] [solubility] Found 0 compound(s) already in data\solubility\solubility_admet.csv.
+[2026-08-24 21:19:24] [solubility] Appended 2426 new compounds to data\solubility\solubility_admet.csv.
+[2026-08-24 21:19:24] [solubility] Run complete. Dataset now has 2426 total compound(s) in data\solubility\solubility_admet.csv.
+[2026-08-24 21:19:24] [solubility] ======================================================================

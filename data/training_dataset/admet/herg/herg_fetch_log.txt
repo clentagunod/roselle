@@ -1,0 +1,16 @@
+[2026-08-24 21:17:59] [herg] ======================================================================
+[2026-08-24 21:17:59] [herg] Starting run. Dataset=hERG (Tox), task_type=classification, daily_limit=2426
+[2026-08-24 21:18:02] [herg] Loading TDC dataset 'hERG' (Tox)...
+[2026-08-24 21:18:02] [herg] TDC returned 655 total compounds for 'hERG'.
+[2026-08-24 21:18:02] [herg] Found 0 compound(s) already in data\herg\herg_admet.csv.
+[2026-08-24 21:18:02] [herg] Appended 655 new compounds to data\herg\herg_admet.csv.
+[2026-08-24 21:18:02] [herg] Run complete. Dataset now has 655 total compound(s) in data\herg\herg_admet.csv.
+[2026-08-24 21:18:02] [herg] ======================================================================
+[2026-08-24 21:18:27] [herg] ======================================================================
+[2026-08-24 21:18:27] [herg] Starting run. Dataset=hERG (Tox), task_type=classification, daily_limit=2426
+[2026-08-24 21:18:28] [herg] Loading TDC dataset 'hERG' (Tox)...
+[2026-08-24 21:18:28] [herg] TDC returned 655 total compounds for 'hERG'.
+[2026-08-24 21:18:28] [herg] Found 616 compound(s) already in data\herg\herg_admet.csv.
+[2026-08-24 21:18:28] [herg] No new rows to add this run.
+[2026-08-24 21:18:28] [herg] Run complete. Dataset now has 616 total compound(s) in data\herg\herg_admet.csv.
+[2026-08-24 21:18:28] [herg] ======================================================================

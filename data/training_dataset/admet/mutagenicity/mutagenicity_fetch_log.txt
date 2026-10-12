@@ -1,0 +1,8 @@
+[2026-08-24 21:20:42] [mutagenicity] ======================================================================
+[2026-08-24 21:20:42] [mutagenicity] Starting run. Dataset=AMES (Tox), task_type=classification, daily_limit=2120
+[2026-08-24 21:20:45] [mutagenicity] Loading TDC dataset 'AMES' (Tox)...
+[2026-08-24 21:20:47] [mutagenicity] TDC returned 7278 total compounds for 'AMES'.
+[2026-08-24 21:20:47] [mutagenicity] Found 0 compound(s) already in data\mutagenicity\mutagenicity_admet.csv.
+[2026-08-24 21:20:47] [mutagenicity] Appended 2120 new compounds to data\mutagenicity\mutagenicity_admet.csv.
+[2026-08-24 21:20:47] [mutagenicity] Run complete. Dataset now has 2120 total compound(s) in data\mutagenicity\mutagenicity_admet.csv.
+[2026-08-24 21:20:47] [mutagenicity] ======================================================================
