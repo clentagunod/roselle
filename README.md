@@ -76,4 +76,12 @@ If you use these research materials, cite the associated study:
 
 > *Quantum-Enhanced Discovery of Anticancer Phytochemicals from Hibiscus sabdariffa: An In Silico Machine Learning Approach.*
 
-Add the authors, publication venue, year, and persistent identifier here when those details are available.
+**Proponents**
+
+- MOCALLAY, ANGELA MARIE M.
+- ALISOSO, ARCELY S.
+- CLAVA, ABEGAILE A.
+
+**Adult Sponsor**
+
+- Rona-Mar R. Coñate, PhD
